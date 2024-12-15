@@ -1,0 +1,9 @@
+   <!-- Footer -->
+   <footer class="fixed-bottom bg-white">
+    <div class="container my-auto">
+      <div class="copyright text-center">
+        <span>Copyright &copy; Your Website 2021</span>
+      </div>
+    </div>
+  </footer>
+  <!-- End of Footer -->
