@@ -1,1 +1,9 @@
 node_modules
+vendor/
+node_modules/
+backups/
+.DS_Store
+*.zip
+*.log
+error_log
+cookies.txt
